@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>
+    <link rel="icon" href="gallery/Ilustración107_3 (2).png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="starfield" id="starfield"></div>
+    <div class="page-shell">
+        <div class="top-bar">
+            <a class="nav-button" href="index.html">Inicio</a>
+            <div class="contact-header top-links">
+                <ul class="contact-links">
+                    <li><a href="https://twitter.com/kydanartist" target="_blank">Twitter</a></li>
+                    <li><a href="https://kydan_knight.artstation.com" target="_blank">ArtStation</a></li>
+                    <li><a href="https://www.youtube.com/@kydanknight73" target="_blank">YouTube</a></li>
+                    <li><a href="https://gamejolt.com/@kydanartist" target="_blank">Gamejolt</a></li>
+                </ul>
+            </div>
+        </div>
+        <header class="site-header">
+            <h1>KYDNA!</h1>
+        </header>
+        <div class="contenido-contenedor">
+            <h2>Aqui podras ver algo de mi trabajo.</h2>
+            <div class="section-wrapper">
+                <button class="section-toggle" onclick="toggleSection(this)" aria-expanded="true">
+                    <span class="title">Modelos 3D</span>
+                    <span class="arrow">▾</span>
+                </button>
+                <div class="section-content" id="section-modelos">
+                    <div class="gallery-container">
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(0); return false;">
+                                <img loading="lazy" src="/gallery/kirby.png" alt="Proyecto 1">
+                                <div class="gallery-card__head">Stylized Kirby</div>
+                                <div class="gallery-card__desc">Modelado de Kirby con un texturizado inspirado por la pelicula de El Gato con Botas el Ultimo Deseo.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(1); return false;">
+                                <img loading="lazy" src="/gallery/escudoyespada.png" alt="Proyecto 2">
+                                <div class="gallery-card__head">Escudo y espada</div>
+                                <div class="gallery-card__desc">Modelado de la espada maestra y hylian shield de la saga Zelda.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(2); return false;">
+                                <img loading="lazy" src="/gallery/fangame_in_the_flesh___poster_by_thepuppetcarver_df226w5.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Fan Game Poster</div>
+                                <div class="gallery-card__desc">Poster de fan game con dinamica de personajes y contraste oscuro.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(3); return false;">
+                                <img loading="lazy" src="/gallery/stylized_helpy_wallpaper_by_thepuppetcarver_derjt6c.png" alt="Proyecto 4">
+                                <div class="gallery-card__head">Stylized Helpy</div>
+                                <div class="gallery-card__desc">Modelado inspirado en el personaje Helpy de la saga Five Nights at Freddy's.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(4); return false;">
+                                <img loading="lazy" src="/gallery/render2.png" alt="Proyecto 2">
+                                <div class="gallery-card__head">Low Poly Kydna</div>
+                                <div class="gallery-card__desc">Modelo low poly de personaje original.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(5); return false;">
+                                <img loading="lazy" src="/gallery/my_fangame_by_kanouwu_deigl6m.png" alt="Proyecto 5">
+                                <div class="gallery-card__head">Banner de fan game</div>
+                                <div class="gallery-card__desc">Banner para promocionar un fan game inspirado en la saga Five Nights at Freddy's.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(6); return false;">
+                                <img loading="lazy" src="/gallery/slimilimii.png" alt="Proyecto 6">
+                                <div class="gallery-card__head">Slime Fantasia</div>
+                                <div class="gallery-card__desc">Escena de un slime inspirado en fantasia.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(7); return false;">
+                                <img loading="lazy" src="/gallery/in-the-flesh-1-2-screenshot-2022-03-26---19-30-43-09-hgs8p5ti.png" alt="Proyecto 7">
+                                <div class="gallery-card__head">Las Maquinitas</div>
+                                <div class="gallery-card__desc">Escena de videojuego de terror.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(8); return false;">
+                                <img loading="lazy" src="/gallery/ssstwitter.com_1774766252555.gif" alt="Proyecto 8">
+                                <div class="gallery-card__head">Gif promocional</div>
+                                <div class="gallery-card__desc">Gif para promocionar un fan game inspirado en la saga Five Nights at Freddy's.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(9); return false;">
+                                <img loading="lazy" src="/gallery/lemon_by_kanouwu_dehmw3o.png" alt="Proyecto 9">
+                                <div class="gallery-card__head">Lemon Demon</div>
+                                <div class="gallery-card__desc">Diseno inspirado en personaje del videojuego Friday Night Funkin'.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(10); return false;">
+                                <img loading="lazy" src="/gallery/kano_remodel_2021_by_kanouwu_dekgnpu.png" alt="Proyecto 10">
+                                <div class="gallery-card__head">Kanof</div>
+                                <div class="gallery-card__desc">Mural de personaje original.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(11); return false;">
+                                <img loading="lazy" src="/gallery/imyuwuiajokage.png" alt="Proyecto 11">
+                                <div class="gallery-card__head">Agujero negro</div>
+                                <div class="gallery-card__desc">Practica de simulacion de agujero negro.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(12); return false;">
+                                <img loading="lazy" src="/gallery/i_made_a_puppet__d_by_kanouwu_deagvs8-fullview.jpg" alt="Proyecto 12">
+                                <div class="gallery-card__head">Recreacion de un personaje</div>
+                                <div class="gallery-card__desc">Recreacion de un personaje de la saga Five Nights at Freddy's.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(13); return false;">
+                                <img loading="lazy" src="/gallery/havoc_chica__reboot__by_kanouwu_deqfz1w.png" alt="Proyecto 13">
+                                <div class="gallery-card__head">Personaje para fan game</div>
+                                <div class="gallery-card__desc">Diseno de personaje para un fan game.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(14); return false;">
+                                <img loading="lazy" src="/gallery/havoc_freddy_v2_0_by_kanouwu_deab0id.png" alt="Proyecto 14">
+                                <div class="gallery-card__head">Personaje para fan game</div>
+                                <div class="gallery-card__desc">Diseno de personaje para un fan game.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(15); return false;">
+                                <img loading="lazy" src="/gallery/hex_bonnie_by_kanof_by_kanouwu_den3cp2.png" alt="Proyecto 15">
+                                <div class="gallery-card__head">Peluche de Bonnie</div>
+                                <div class="gallery-card__desc">Modelado de un peluche de Bonnie de la saga Five Nights at Freddy's.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(16); return false;">
+                                <img loading="lazy" src="/gallery/der5env-b6f85952-2772-4825-af52-b46247b1671b.png" alt="Proyecto 16">
+                                <div class="gallery-card__head">Venom Head</div>
+                                <div class="gallery-card__desc">Modelado basado en el personaje Venom de Marvel.</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(17); return false;">
+                                <img loading="lazy" src="/gallery/bonnette_by_kanouwu_deq4vbe.png" alt="Proyecto 17">
+                                <div class="gallery-card__head">Bonnette</div>
+                                <div class="gallery-card__desc">Modelado basado en el diseno de un oc de un tercero.</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section-wrapper">
+                <button class="section-toggle" onclick="toggleSection(this)" aria-expanded="true">
+                    <span class="title">Dibujos</span>
+                    <span class="arrow">▾</span>
+                </button>
+                <div class="section-content" id="section-dibujos">
+                    <div class="gallery-container">
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(0); return false;">
+                                <img loading="lazy" src="/gallery/Ilustración147.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Wilma en la fiesta</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(1); return false;">
+                                <img loading="lazy" src="/gallery/Kydna.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Kydna la hechicera</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(2); return false;">
+                                <img loading="lazy" src="/gallery/MAYHEMmaiden.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Panel de manga</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(3); return false;">
+                                <img loading="lazy" src="/gallery/ragathaterminada.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Ragatha ilustracion</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(4); return false;">
+                                <img loading="lazy" src="/gallery/Foxitapro_by_Kydanartistacc.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Foxita oc</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(5); return false;">
+                                <img loading="lazy" src="/gallery/con_fondo.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Com</div>
+                            </a>
+                        </div>
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(6); return false;">
+                                <img loading="lazy" src="/gallery/Ilustración85.png" alt="Proyecto 3">
+                                <div class="gallery-card__head">Hace frio</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section-wrapper">
+                <button class="section-toggle" onclick="toggleSection(this)" aria-expanded="true">
+                    <span class="title">Disenos de personajes originales | OC's</span>
+                    <span class="arrow">▾</span>
+                </button>
+                <div class="section-content" id="section-personajes">
+                    <div class="gallery-container">
+                        <div class="gallery-card">
+                            <a href="#" onclick="openCarousel(0); return false;">
+                                <img loading="lazy" src="/gallery/lucellia.png" alt="Proyecto 4">
+                                <div class="gallery-card__head">Lucellia</div>
+                                <div class="gallery-card__desc">Diseño de personaje</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="carouselModal" class="carousel-modal" onclick="if(event.target === this) closeCarousel();">
+                <div class="carousel-content" role="dialog" aria-modal="true" aria-labelledby="carouselTitle">
+                    <button class="carousel-close" onclick="closeCarousel();">×</button>
+                    <button class="carousel-arrow prev" onclick="prevCarousel();">‹</button>
+                    <img id="carouselImage" class="carousel-image" src="" alt="">
+                    <div class="carousel-caption">
+                        <h3 id="carouselTitle"></h3>
+                        <p id="carouselDesc"></p>
+                    </div>
+                    <button class="carousel-arrow next" onclick="nextCarousel();">›</button>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-footer">
+            <div class="netbox">
+                <a href="https://youtube.com/@kanoknight" target="_blank" title="Subo videos interesantes C:">
+                    <img loading="lazy" src="icons/youtube.png" alt="YouTube">
+                </a>
+                <a href="https://twitter.com/kydanartist" target="_blank" title="Aqui twitteo webadas, subo mis dibujos y tiro basura c:">
+                    <img loading="lazy" src="icons/gorjeo.png" alt="Twitter">
+                </a>
+                <a href="https://tiktok.com/@kydanknight" target="_blank" title="Jure nunca usarlo, sin embargo sirve para farmear vistas o(￣▽￣)ｄ">
+                    <img loading="lazy" src="icons/tiki.png" alt="TikTok">
+                </a>
+                <a href="https://discord.gg/QUc47vJZPv" target="_blank" title="Convive con la comunidad y enterate de mas cosas que en twitter! (づ￣ 3￣)づ">
+                    <img loading="lazy" src="icons/discordia.png" alt="Discord">
+                </a>
+                <a href="https://gamejolt.com/@kydanartist" target="_blank" title="Descarga mis juegos y mira novedades sobre los proyectos que estoy desarrollando.">
+                    <img loading="lazy" src="icons/gamejolt.png" alt="GameJolt">
+                </a>
+                <a href="https://www.instagram.com/kydnak73" target="_blank" title="Mi instagram c:">
+                    <img loading="lazy" src="icons/insta.png" alt="Instagram">
+                </a>
+                <a href="https://www.twitch.tv/kydannn" target="_blank" title="Mi Ko-fi para donaciones y comisiones! o(*^▽^*)┛">
+                    <img loading="lazy" src="icons/twitch.png" alt="Twitch">
+                </a>
+            </div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
