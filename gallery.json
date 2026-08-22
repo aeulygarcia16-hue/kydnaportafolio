@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": "3d",
+      "title": "Modelado 3D",
+      "eyebrow": "Forma y volumen",
+      "description": "Modelos, escenas y renders creados para personajes, juegos y proyectos visuales.",
+      "items": [
+        {"image":"gallery/kirby.png","title":"Stylized Kirby","description":"Modelado estilizado con texturizado inspirado en El Gato con Botas: El Ultimo Deseo."},
+        {"image":"gallery/escudoyespada.png","title":"Escudo y espada","description":"Modelado de la espada maestra y el escudo hyliano de Zelda."},
+        {"image":"gallery/fangame_in_the_flesh___poster_by_thepuppetcarver_df226w5.png","title":"Fan Game Poster","description":"Poster de fan game con dinamica de personajes y contraste oscuro."},
+        {"image":"gallery/stylized_helpy_wallpaper_by_thepuppetcarver_derjt6c.png","title":"Stylized Helpy","description":"Modelado inspirado en Helpy de Five Nights at Freddy's."},
+        {"image":"gallery/render2.png","title":"Low Poly Kydna","description":"Modelo low poly de personaje original."},
+        {"image":"gallery/my_fangame_by_kanouwu_deigl6m.png","title":"Banner de fan game","description":"Pieza promocional para un fan game."},
+        {"image":"gallery/slimilimii.png","title":"Slime fantasia","description":"Escena estilizada de un slime en un entorno fantastico."},
+        {"image":"gallery/in-the-flesh-1-2-screenshot-2022-03-26---19-30-43-09-hgs8p5ti.png","title":"Las maquinitas","description":"Escena de videojuego de terror."},
+        {"image":"gallery/ssstwitter.com_1774766252555.gif","title":"Gif promocional","description":"Gif para presentar un fan game."},
+        {"image":"gallery/lemon_by_kanouwu_dehmw3o.png","title":"Lemon Demon","description":"Diseno inspirado en Friday Night Funkin'."},
+        {"image":"gallery/kano_remodel_2021_by_kanouwu_dekgnpu.png","title":"Kanof","description":"Mural de personaje original."},
+        {"image":"gallery/imyuwuiajokage.png","title":"Agujero negro","description":"Practica de simulacion y efectos visuales."},
+        {"image":"gallery/i_made_a_puppet__d_by_kanouwu_deagvs8-fullview.jpg","title":"Recreacion de personaje","description":"Recreacion de un personaje de Five Nights at Freddy's."},
+        {"image":"gallery/havoc_chica__reboot__by_kanouwu_deqfz1w.png","title":"Personaje para fan game","description":"Diseno y modelado para un proyecto de fan game."},
+        {"image":"gallery/havoc_freddy_v2_0_by_kanouwu_deab0id.png","title":"Personaje para fan game","description":"Diseno y modelado para un proyecto de fan game."},
+        {"image":"gallery/hex_bonnie_by_kanof_by_kanouwu_den3cp2.png","title":"Peluche de Bonnie","description":"Modelado de un peluche estilizado."},
+        {"image":"gallery/der5env-b6f85952-2772-4825-af52-b46247b1671b.png","title":"Venom Head","description":"Modelado basado en el personaje Venom."},
+        {"image":"gallery/bonnette_by_kanouwu_deq4vbe.png","title":"Bonnette","description":"Modelado basado en el diseno de un personaje original."},
+        {"image":"gallery/bonnie_oxidado_by_kanouwu_deqdlom.png","title":"Bonnie oxidado","description":"Modelado estilizado de Toy Bonnie."},
+        {"image":"gallery/efeser.gif","title":"F10C11","description":"Personaje low poly para videojuego."},
+        {"image":"gallery/esprintra.png","title":"Springtrap","description":"Modelado estilizado para el fan game In The Flesh."}
+      ]
+    },
+    {
+      "id": "dibujos",
+      "title": "Dibujos",
+      "eyebrow": "Color e imaginacion",
+      "description": "Ilustraciones, fanart y escenas que exploran personajes y mundos propios.",
+      "items": [
+        {"image":"gallery/ilustracion89.png","title":"Izutsumi","description":"Fanart de Dungeon Meshi."},
+        {"image":"gallery/ilustracion147.png","title":"Wilma en la fiesta","description":"Ilustracion de personaje."},
+        {"image":"gallery/kydna.png","title":"Kydna la hechicera","description":"Personaje original."},
+        {"image":"gallery/mayhemmaiden.png","title":"Panel de manga","description":"Escena ilustrada con lenguaje de manga."},
+        {"image":"gallery/ragathaterminada.png","title":"Ragatha","description":"Ilustracion de personaje."},
+        {"image":"gallery/foxitapro_by_kydanartistacc.png","title":"Foxita OC","description":"Diseno e ilustracion de personaje original."},
+        {"image":"gallery/con_fondo.png","title":"Comision","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion85.png","title":"Hace frio","description":"Ilustracion de personaje."},
+        {"image":"gallery/waaeeeeeeee1.png","title":"Ilustracion VTuber","description":"Retrato ilustrado."},
+        {"image":"gallery/ocsdragona.png","title":"OC dragona","description":"Ilustracion basada en una dinamica de personajes."},
+        {"image":"gallery/ilustracion164.png","title":"Luz intensa","description":"Ilustracion de personaje bajo una luz intensa."},
+        {"image":"gallery/ilustracion169.png","title":"Personaje original","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion165.png","title":"Comision","description":"Ilustracion por encargo."},
+        {"image":"gallery/el_fast.png","title":"Personaje original","description":"Dibujo basado en un personaje original."},
+        {"image":"gallery/ilustracion14.png","title":"OC estilo manga","description":"Arte de personaje en estilo manga."},
+        {"image":"gallery/ilustracion24.png","title":"Panel anime","description":"Panel de manga en estilo anime."},
+        {"image":"gallery/ilustracion29.png","title":"Personaje de seguidor","description":"Dibujo de personaje."},
+        {"image":"gallery/ilustracion32.png","title":"Falin","description":"Fanart de Dungeon Meshi."},
+        {"image":"gallery/ilustracion78.png","title":"Link","description":"Fanart de The Legend of Zelda."},
+        {"image":"gallery/ilustracion107_3.png","title":"Personaje original","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion119_2.png","title":"Personaje original","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion122.png","title":"Personaje original","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion148.png","title":"OC de un amigo","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion149.png","title":"Personaje original","description":"Ilustracion de personaje."},
+        {"image":"gallery/ilustracion160.png","title":"Enamorados","description":"Ilustracion de personajes."},
+        {"image":"gallery/ilustracion166.png","title":"Semana dorada","description":"Ilustracion de personaje."},
+        {"image":"gallery/kynafeliz.gif","title":"Kydna feliz","description":"Ilustracion animada de personaje original."}
+      ]
+    },
+    {
+      "id": "personajes",
+      "title": "Diseno de personajes",
+      "eyebrow": "Personajes originales",
+      "description": "OCs, redisenos y propuestas visuales para historias y videojuegos.",
+      "items": [
+        {"image":"gallery/lucellia.png","title":"Lucellia","description":"Diseno de personaje original."},
+        {"image":"gallery/kirbyshowdown.png","title":"Rediseno de Kirby","description":"Exploracion de diseno de personaje."},
+        {"image":"gallery/20251118_073243.jpg","title":"Personaje original","description":"Diseno de personaje."},
+        {"image":"gallery/02.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
+        {"image":"gallery/03.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
+        {"image":"gallery/04.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
+        {"image":"gallery/07demon.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
+        {"image":"gallery/fquqr-hxsak9c9y.png","title":"Cassandra","description":"Diseno de personaje."},
+        {"image":"gallery/girlblaze.png","title":"Blaze Girl","description":"Diseno de personaje."},
+        {"image":"gallery/ilustracion44.png","title":"Personajes para manga","description":"Disenos de personajes originales."},
+        {"image":"gallery/ilustracion60_2.png","title":"Pruebas de color","description":"Exploracion de color para personaje."},
+        {"image":"gallery/imauijdoskge.png","title":"Pruebas de diseno","description":"Exploracion visual de personaje."}
+      ]
+    }
+  ]
+}
