@@ -63,26 +63,6 @@
         {"image":"gallery/ilustracion166.png","title":"Semana dorada","description":"Ilustracion de personaje."},
         {"image":"gallery/kynafeliz.gif","title":"Kydna feliz","description":"Ilustracion animada de personaje original."}
       ]
-    },
-    {
-      "id": "personajes",
-      "title": "Diseno de personajes",
-      "eyebrow": "Personajes originales",
-      "description": "OCs, redisenos y propuestas visuales para historias y videojuegos.",
-      "items": [
-        {"image":"gallery/lucellia.png","title":"Lucellia","description":"Diseno de personaje original."},
-        {"image":"gallery/kirbyshowdown.png","title":"Rediseno de Kirby","description":"Exploracion de diseno de personaje."},
-        {"image":"gallery/20251118_073243.jpg","title":"Personaje original","description":"Diseno de personaje."},
-        {"image":"gallery/02.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
-        {"image":"gallery/03.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
-        {"image":"gallery/04.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
-        {"image":"gallery/07demon.png","title":"Personaje para videojuego","description":"Propuesta visual para videojuego."},
-        {"image":"gallery/fquqr-hxsak9c9y.png","title":"Cassandra","description":"Diseno de personaje."},
-        {"image":"gallery/girlblaze.png","title":"Blaze Girl","description":"Diseno de personaje."},
-        {"image":"gallery/ilustracion44.png","title":"Personajes para manga","description":"Disenos de personajes originales."},
-        {"image":"gallery/ilustracion60_2.png","title":"Pruebas de color","description":"Exploracion de color para personaje."},
-        {"image":"gallery/imauijdoskge.png","title":"Pruebas de diseno","description":"Exploracion visual de personaje."}
-      ]
     }
   ]
 }
